@@ -1,0 +1,15 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "Omgaan met API's",
+  "main": "first_request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvid van de Crommert",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
